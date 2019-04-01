@@ -3,14 +3,14 @@ This script returns general commonly referenced information for a specified user
 
 Here is the full list of attributes returned (data is printed in the order listed):
 
-Displayname
-UserPrincipalName
-ProxyAddresses
-AccountEnabled
-DirSyncEnabled
-PasswordPolicies
-RefreshTokensValidFromDateTime
-DeletionTimestamp
-UsageLocation
-ObjectType
-ObjectID
+- Displayname
+- UserPrincipalName
+- ProxyAddresses
+- AccountEnabled
+- DirSyncEnabled
+- PasswordPolicies
+- RefreshTokensValidFromDateTime
+- DeletionTimestamp
+- UsageLocation
+- ObjectType
+- ObjectID
